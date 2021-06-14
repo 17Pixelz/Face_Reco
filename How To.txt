@@ -1,0 +1,2 @@
+install requirments but dlib wont so :
+	https://gist.github.com/eddylim95/695850bbb916d2424f13bcd0498e127e
